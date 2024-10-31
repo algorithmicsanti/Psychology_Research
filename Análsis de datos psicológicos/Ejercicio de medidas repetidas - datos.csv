@@ -1,0 +1,181 @@
+ID,Puntuación,Tarea,Demora
+1,10,Reconocimiento,hora
+1,8,Reconocimiento,dia
+1,7,Reconocimiento,sem
+1,8,Reconocimiento,mes
+1,8,Recuerdo asistido,hora
+1,6,Recuerdo asistido,dia
+1,5,Recuerdo asistido,sem
+1,3,Recuerdo asistido,mes
+1,7,Recuerdo libre,hora
+1,5,Recuerdo libre,dia
+1,4,Recuerdo libre,sem
+1,3,Recuerdo libre,mes
+2,9,Reconocimiento,hora
+2,8,Reconocimiento,dia
+2,7,Reconocimiento,sem
+2,6,Reconocimiento,mes
+2,8,Recuerdo asistido,hora
+2,7,Recuerdo asistido,dia
+2,6,Recuerdo asistido,sem
+2,5,Recuerdo asistido,mes
+2,8,Recuerdo libre,hora
+2,6,Recuerdo libre,dia
+2,4,Recuerdo libre,sem
+2,4,Recuerdo libre,mes
+3,8,Reconocimiento,hora
+3,6,Reconocimiento,dia
+3,6,Reconocimiento,sem
+3,7,Reconocimiento,mes
+3,9,Recuerdo asistido,hora
+3,7,Recuerdo asistido,dia
+3,5,Recuerdo asistido,sem
+3,6,Recuerdo asistido,mes
+3,8,Recuerdo libre,hora
+3,6,Recuerdo libre,dia
+3,5,Recuerdo libre,sem
+3,6,Recuerdo libre,mes
+4,7,Reconocimiento,hora
+4,7,Reconocimiento,dia
+4,6,Reconocimiento,sem
+4,6,Reconocimiento,mes
+4,8,Recuerdo asistido,hora
+4,6,Recuerdo asistido,dia
+4,4,Recuerdo asistido,sem
+4,4,Recuerdo asistido,mes
+4,8,Recuerdo libre,hora
+4,5,Recuerdo libre,dia
+4,3,Recuerdo libre,sem
+4,4,Recuerdo libre,mes
+5,10,Reconocimiento,hora
+5,9,Reconocimiento,dia
+5,8,Reconocimiento,sem
+5,8,Reconocimiento,mes
+5,7,Recuerdo asistido,hora
+5,6,Recuerdo asistido,dia
+5,4,Recuerdo asistido,sem
+5,5,Recuerdo asistido,mes
+5,7,Recuerdo libre,hora
+5,5,Recuerdo libre,dia
+5,4,Recuerdo libre,sem
+5,3,Recuerdo libre,mes
+6,8,Reconocimiento,hora
+6,7,Reconocimiento,dia
+6,5,Reconocimiento,sem
+6,6,Reconocimiento,mes
+6,9,Recuerdo asistido,hora
+6,7,Recuerdo asistido,dia
+6,6,Recuerdo asistido,sem
+6,3,Recuerdo asistido,mes
+6,9,Recuerdo libre,hora
+6,6,Recuerdo libre,dia
+6,5,Recuerdo libre,sem
+6,5,Recuerdo libre,mes
+7,11,Reconocimiento,hora
+7,11,Reconocimiento,dia
+7,9,Reconocimiento,sem
+7,8,Reconocimiento,mes
+7,11,Recuerdo asistido,hora
+7,11,Recuerdo asistido,dia
+7,7,Recuerdo asistido,sem
+7,5,Recuerdo asistido,mes
+7,8,Recuerdo libre,hora
+7,8,Recuerdo libre,dia
+7,7,Recuerdo libre,sem
+7,5,Recuerdo libre,mes
+8,15,Reconocimiento,hora
+8,13,Reconocimiento,dia
+8,11,Reconocimiento,sem
+8,11,Reconocimiento,mes
+8,9,Recuerdo asistido,hora
+8,8,Recuerdo asistido,dia
+8,6,Recuerdo asistido,sem
+8,4,Recuerdo asistido,mes
+8,10,Recuerdo libre,hora
+8,9,Recuerdo libre,dia
+8,6,Recuerdo libre,sem
+8,6,Recuerdo libre,mes
+9,13,Reconocimiento,hora
+9,11,Reconocimiento,dia
+9,11,Reconocimiento,sem
+9,10,Reconocimiento,mes
+9,10,Recuerdo asistido,hora
+9,9,Recuerdo asistido,dia
+9,8,Recuerdo asistido,sem
+9,6,Recuerdo asistido,mes
+9,11,Recuerdo libre,hora
+9,9,Recuerdo libre,dia
+9,8,Recuerdo libre,sem
+9,8,Recuerdo libre,mes
+10,11,Reconocimiento,hora
+10,11,Reconocimiento,dia
+10,10,Reconocimiento,sem
+10,9,Reconocimiento,mes
+10,9,Recuerdo asistido,hora
+10,9,Recuerdo asistido,dia
+10,7,Recuerdo asistido,sem
+10,3,Recuerdo asistido,mes
+10,8,Recuerdo libre,hora
+10,8,Recuerdo libre,dia
+10,6,Recuerdo libre,sem
+10,4,Recuerdo libre,mes
+11,10,Reconocimiento,hora
+11,9,Reconocimiento,dia
+11,9,Reconocimiento,sem
+11,9,Reconocimiento,mes
+11,11,Recuerdo asistido,hora
+11,11,Recuerdo asistido,dia
+11,9,Recuerdo asistido,sem
+11,5,Recuerdo asistido,mes
+11,9,Recuerdo libre,hora
+11,8,Recuerdo libre,dia
+11,5,Recuerdo libre,sem
+11,4,Recuerdo libre,mes
+12,9,Reconocimiento,hora
+12,9,Reconocimiento,dia
+12,8,Reconocimiento,sem
+12,7,Reconocimiento,mes
+12,12,Recuerdo asistido,hora
+12,12,Recuerdo asistido,dia
+12,8,Recuerdo asistido,sem
+12,4,Recuerdo asistido,mes
+12,7,Recuerdo libre,hora
+12,7,Recuerdo libre,dia
+12,7,Recuerdo libre,sem
+12,5,Recuerdo libre,mes
+13,7,Reconocimiento,hora
+13,7,Reconocimiento,dia
+13,6,Reconocimiento,sem
+13,6,Reconocimiento,mes
+13,13,Recuerdo asistido,hora
+13,13,Recuerdo asistido,dia
+13,7,Recuerdo asistido,sem
+13,5,Recuerdo asistido,mes
+13,10,Recuerdo libre,hora
+13,9,Recuerdo libre,dia
+13,8,Recuerdo libre,sem
+13,6,Recuerdo libre,mes
+14,11,Reconocimiento,hora
+14,12,Reconocimiento,dia
+14,10,Reconocimiento,sem
+14,9,Reconocimiento,mes
+14,8,Recuerdo asistido,hora
+14,8,Recuerdo asistido,dia
+14,7,Recuerdo asistido,sem
+14,4,Recuerdo asistido,mes
+14,12,Recuerdo libre,hora
+14,9,Recuerdo libre,dia
+14,7,Recuerdo libre,sem
+14,5,Recuerdo libre,mes
+15,11,Reconocimiento,hora
+15,12,Reconocimiento,dia
+15,10,Reconocimiento,sem
+15,9,Reconocimiento,mes
+15,8,Recuerdo asistido,hora
+15,8,Recuerdo asistido,dia
+15,7,Recuerdo asistido,sem
+15,4,Recuerdo asistido,mes
+15,12,Recuerdo libre,hora
+15,9,Recuerdo libre,dia
+15,7,Recuerdo libre,sem
+15,5,Recuerdo libre,mes
